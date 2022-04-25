@@ -1,0 +1,6 @@
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\ProjectC#\Скворцов Дмитрий 2-2ИС\Apteka_SDA\ClassLibrary\obj\Debug\ClassLibrary.pdb
