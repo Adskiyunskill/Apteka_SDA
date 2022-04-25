@@ -14,6 +14,7 @@ namespace Apteka_SDA
             farm.GiveBigNum();
 
             farm.GiveSumm();
+            // лдорлролр
         }
     }
 }
